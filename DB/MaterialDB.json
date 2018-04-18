@@ -1,0 +1,17 @@
+{
+    "Water": {
+        "density": 1000.0,
+        "element_fracs": {
+            "Hydrogen":0.1119,
+            "Oxygen":0.8881
+        }
+    },
+    "LAB": {
+        "Formula": "C17H28",
+        "density": 862.0,
+        "element_fracs": {
+            "Carbon":0.8785,
+            "Hydrogen":0.1215
+        }
+    }
+}

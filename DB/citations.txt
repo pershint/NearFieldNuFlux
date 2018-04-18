@@ -1,0 +1,4 @@
+#FissionFractions.json: Taken from RAT as of April 2018.  Original source:
+
+#ReactorIsotopeInfo.json: Also taken from Rat, which is sourced from
+Huber et al. PRD 70 053011.

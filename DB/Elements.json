@@ -1,0 +1,11 @@
+{
+    "Hydrogen": {
+        "g/mol": 1.0
+        },
+    "Carbon": {
+        "g/mol": 12.0
+    },
+    "Oxygen": {
+        "g/mol": 16.0
+    }
+}

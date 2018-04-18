@@ -1,0 +1,30 @@
+{
+    "235U": {
+        "EPerFission": 201.7,
+        "EPerFission_unc": 0.6,
+        "NuPerFission": 1.92,
+        "NuPerFission_unc": 0.037,
+        "PolyCoeffs": [3.519, -3.517, 1.595, -0.4171, 0.05004, -0.002303]
+    },
+    "238U": {
+        "EPerFission": 205.0,
+        "EPerFission_unc": 0.9,
+        "NuPerFission": 2.38,
+        "NuPerFission_unc": 0.048,
+        "PolyCoeffs": [0.976,-0.162,-0.079]
+    },
+    "239Pu": {
+        "EPerFission": 210.3,
+        "EPerFission_unc": 0.9,
+        "NuPerFission": 1.45,
+        "NuPerFission_unc": 0.03,
+        "PolyCoeffs": [2.56, -2.654, 1.256, -0.3617, 0.04547, -0.002143]
+    },
+    "241Pu": {
+        "EPerFission": 212.6,
+        "EPerFission_unc": 1.0,
+        "NuPerFission": 1.83,
+        "NuPerFission_unc": 0.035,
+        "PolyCoeffs": [1.487, -1.038, 0.413,-0.1423, 0.01866, -0.0009229]
+    }
+}
